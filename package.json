@@ -1,0 +1,14 @@
+{
+  "name": "daftacademy",
+  "version": "1.0.0",
+  "description": "Front-end LevelUp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Klaudia Butkiewicz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
