@@ -1,4 +1,4 @@
-const fib  = (num) => {
+const fib  = num => {
     if((typeof num !== 'number') || (num % 1 !== 0) || (num < 0)) {
         throw new Error ("The argument is not a natural number");
     }
